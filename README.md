@@ -12,7 +12,7 @@ Tu préfères d'abord essayer sur ton ordinateur ? Voir la [bêta Windows](https
 
 ## Télécharger
 
-👉 [**Télécharger la dernière version**](../../releases/latest) : fichier `sally-home-connect-….-raspberry-pi.img.xz`
+👉 [**Télécharger la dernière version**](../../releases/latest) : fichier `sally-home-connect-…-raspberry-pi.img.xz`
 
 - **30 jours d'essai gratuit**, avec toutes les fonctions
 - **Aucune commande** : une image à écrire sur une carte micro-SD avec Raspberry Pi Imager

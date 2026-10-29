@@ -12,7 +12,7 @@ Would you rather try it on your computer first? See the [Windows beta](https://g
 
 ## Download
 
-👉 [**Download the latest version**](../../releases/latest): file `sally-home-connect-….-raspberry-pi.img.xz`
+👉 [**Download the latest version**](../../releases/latest): file `sally-home-connect-…-raspberry-pi.img.xz`
 
 - **30-day free trial**, with every feature
 - **No commands to type**: one image to write to a micro-SD card with Raspberry Pi Imager
